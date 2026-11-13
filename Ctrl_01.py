@@ -3,8 +3,8 @@ import requests as req
 import time
 import subprocess
 
-TOKEN = "8784450909:AAF1nq390Crd76-pUijFOhZNRF5y-et391k"
-ID = "8667275548"
+TOKEN = "bot_token"
+ID = "chat_id"
 URL = f"https://api.telegram.org/bot{TOKEN}"
 
 offset = 0
